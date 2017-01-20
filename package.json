@@ -1,0 +1,17 @@
+{
+  "name": "WebApplicationAngularCsharp",
+  "version": "1.0.0",
+  "description": "Web Application for XD MTY DC",
+  "author": "Carlos Martínez Avendaño",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-sass": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-ng-annotate": "^1.0.1",
+    "jshint-stylish": "latest"
+  }
+} 
